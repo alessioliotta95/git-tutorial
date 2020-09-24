@@ -47,6 +47,6 @@ body {
   color: white;
 }
 
-.item li_hover {
+.item li:hover {
     background-color: gray;
 }
